@@ -29,4 +29,6 @@ Basta abrir o ficheiro `index.html` num navegador web.
 - SETIC - Curso Git Hands-On
    
 ## Equipa [FBO](https://github.com/fiauoliveira/portal-setic) 
+
+## Equipa [MOM]https://github.com/DemiMarcos/formacao-git-projecto-final.git
      
