@@ -32,4 +32,5 @@ Basta abrir o ficheiro `index.html` num navegador web.
 
 
 ## Equipa[AMH](https://github.com/armin9bin1/formacao-git-projecto-final)
+## Equipa [MOM]https://github.com/DemiMarcos/formacao-git-projecto-final.git
      
