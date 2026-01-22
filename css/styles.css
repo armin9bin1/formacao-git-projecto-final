@@ -66,6 +66,7 @@ body {
 
 .nav-list a:hover {
     color: #63b3ed;
+	background-color: red;
 }
 
 .menu-toggle {
@@ -328,11 +329,12 @@ body {
 }
 
 .footer-links ul {
-    list-style: none;
+    list-style: none;	
 }
 
 .footer-links li {
     margin-bottom: 8px;
+	scroll-behavior: smooth;
 }
 
 .footer-links a {
