@@ -27,3 +27,10 @@ Basta abrir o ficheiro `index.html` num navegador web.
 ## Equipa de Desenvolvimento
 
 - SETIC - Curso Git Hands-On
+
+
+## Alterações
+Versão: 2.0
+- Navegação e Experiência do Utilizador
+- Identidade Visual
+- Conteúdo e Estrutura
